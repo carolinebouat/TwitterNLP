@@ -1,4 +1,5 @@
-# TwitterNLP --- STAT class project - An analysis of vaccine-related tweets in different regions of France  
+# TwitterNLP - STATS Project 
+# An analysis of vaccine-related tweets in different regions of France  
 
 To go through our code, please first download the three all_combined_pickle.zip 
 
